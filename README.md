@@ -10,6 +10,10 @@
 
 5
 
+6
+
+7
+
 A new Flutter application to count lives
 
 ## Getting Started
