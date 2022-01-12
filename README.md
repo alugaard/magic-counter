@@ -1,5 +1,11 @@
 # magic_counter
 
+1
+
+2
+
+3
+
 A new Flutter application to count lives
 
 ## Getting Started
